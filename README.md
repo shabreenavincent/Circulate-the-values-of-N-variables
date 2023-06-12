@@ -30,4 +30,4 @@ def circulate():
 
 
 ## Result:
-The above python program to circulate the n variables using function concept.
+Thus, circulating the n variables is successfully executed.
